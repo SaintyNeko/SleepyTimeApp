@@ -1,6 +1,6 @@
 # sleep_time
 
-A new Flutter project.
+My first progen on mobile apps.
 
 ## Getting Started
 
