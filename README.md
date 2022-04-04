@@ -1,6 +1,6 @@
 # sleep_time
 
-My first progen on mobile apps.
+My first progect on mobile apps.
 
 ## Getting Started
 
